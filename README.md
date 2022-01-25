@@ -1,1 +1,1 @@
-# 2022-Data-Viz-Challenge
+# 2022-Data-Viz-Survey-Challenge
